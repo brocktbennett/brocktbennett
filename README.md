@@ -1,83 +1,50 @@
-### Hi there 👋, I'm Brock T. Bennett!
+<p align="center">
+    <img width="200" src="https://your-image-url.png">
+</p>
 
-📍 **Location**: Stillwater, OK  
-📧 **Email**: brock.bennett@okstate.edu  
-🌐 **LinkedIn**: [Linkedin.com/in/brocktbennett/](https://linkedin.com/in/brocktbennett/)  
-💻 **GitHub**: [Github.com/brocktbennett](https://github.com/brocktbennett)
+<h1> Hello, Data Enthusiasts! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
----
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=brocktbennett.brocktbennett)
+[![Github](https://img.shields.io/github/followers/brocktbennett?label=Follow&style=social)](https://github.com/brocktbennett)
 
-#### 🎓 **Education**
+<div size='20px'> Hi! I'm Brock Bennett, an aspiring Data Scientist and Cloud Engineer. Thank you for visiting my GitHub Profile! 😄 </div>
 
-- **Master of Science in Business Analytics & Data Science**  
-  Oklahoma State University, Stillwater, OK  
-  Graduation Date: May 2024 | Overall GPA: 3.6
+<h2> About Me 🚀 </h2>
 
-- **Bachelor of Science in Business Administration**  
-  Oklahoma State University, Stillwater, OK  
-  Graduation Date: May 2023 | Major GPA: 3.7  
-  Major: Management Science Information Systems, Data Science
+<img width="55%" align="right" alt="Github" src="https://your-image-url.png" />
 
----
+- 🔭 Currently completing my Master's in Business Analytics & Data Science at Oklahoma State University
+- 🌱 Learning advanced techniques in Machine Learning and Cloud Computing
+- 👯 Looking to collaborate on data-driven projects and cloud solutions
+- 💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes
+- ⚡ Fun fact: I have performed 42,000+ audits while serving in the U.S. Air Force
 
-#### 🌟 **Summary of Qualifications**
+<h2> Skills 🛠 </h2>
+<a href='https://github.com/brocktbennett?tab=repositories&q=&type=&language=python'> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href='https://github.com/brocktbennett?tab=repositories&q=&type=&language=sql'> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href='https://github.com/brocktbennett?tab=repositories&q=&type=&language=tableau'> <img width='32px' src='https://icon-your-tableau.svg'> </a>
+<a href='https://github.com/brocktbennett?tab=repositories&q=&type=&language=azure'> <img width='32px' src='https://icon-your-azure.svg'> </a>
 
-- 🛠 **Skilled in Data & IT**: Over 2 years of diverse internship experience in IT and data analytics, with a focus on ETL tasks.
-- 🏆 **Tech Stack**: Proficient in Python, SQL, Tableau, and SAS Viya.
-- 💡 **Team Collaboration**: A proven track record of successful project completion with cross-functional teams.
+<h2> Connect with Me 🤝 </h2>
+<a href='https://www.linkedin.com/in/brocktbennett/'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
+<a href='https://twitter.com/YourTwitterHandle'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a>
+<a href='https://medium.com/@brock.bennett'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/> </a>
+<a href='https://github.com/brocktbennett'> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
 
----
+<br>
+<br>
 
-#### 🏢 **Professional Experience**
+[![Brock's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brocktbennett&theme=tokyonight)](https://git.io/brocktbennett)
 
-- **Cloud Engineer Intern, Heartland**  
-  May 2023 – August 2023
-  - Crafted solutions for seamless ETL data ingestion processes.
-  - Spearheaded summer roadmap development.
-  - Innovated data collection strategies and experimental designs.
+| ![Brock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brocktbennett&show_icons=true&theme=tokyonight) | ![Brock's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brocktbennett&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brocktbennett&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=brocktbennett&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-- **Data Center Intern, Paycom**  
-  May 2022 – August 2022
-  - Partnered with Data Center Techs for hardware upgrades and implementation.
-  - Executed equipment installs and maintenance at two of three Paycom Data Centers.
+<br>
 
-- **IT & Security Intern, Oklahoma State University Foundation**  
-  December 2020 – January 2022
-  - Established Azure-based network machines.
-  - Gained expertise in SQL Server, Azure, Intune, and cloud-based virus detection.
+-----
+Credits: [Brock T. Bennett](https://github.com/brocktbennett)
 
----
-
-#### 📊 **Projects**
-
-- **Customer Segmentation and Delinquency Prediction**  
-  August 2022 – May 2023
-  - Engineered predictive models in Tableau for risk management.
-  
-- **Pitt Business Case Competition with Dick’s Sporting Goods**  
-  January 2023 – April 2023
-  - Quantified the impact of remote work on sportswear demand through predictive modeling.
-  - Crafted data visualizations in Tableau.
-
----
-
-#### ⚙️ **Technical Skills**
-
-- **Data Analysis and Programming**: Python 🐍, R, SAS, SQL
-- **Database Management Systems**: MySQL, Oracle, Azure Dev Ops, Snowflake
-- **Cloud Computing / Data Warehousing**: Azure, Matillion, dbt, Snowflake, Postman
-- **Data Visualization and BI Tools**: Tableau 📊, PowerBI, JMP, SAS Viya
-
----
-
-#### 🏅 **Certifications**
-
-- 🎖 **Google Career Certifications, Data Analytics Specialization**  
-  Issued: January 2023
-
-- 🎖 **Google Career Certifications, Advanced Data Analytics Specialization**  
-  Issued: October 2023
-
----
-
-📣 **Let's connect! Feel free to reach out for collaborations, questions, or just a friendly chat!**
+Last Edited on: 09/12/2023
