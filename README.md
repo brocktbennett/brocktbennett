@@ -2,7 +2,7 @@
   <img src="https://digitalassets.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg?io=transform:fit,width:2500&quality=80" alt="Oklahoma State University Logo" width="200">
 </div>
 
-# Hello 👋, I'm Brock T. Bennett! Thanks for checking out my GitHub profile.
+# Hello 👋, I'm Brock T. Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
 
 <p align="center">
   📍 Stillwater, OK | 
@@ -89,4 +89,7 @@
 - 🎖 **Google Career Certifications, Data Analytics Specialization**  
   - Issued: January 2023
 
-- 🎖 **Google Career Certifications, Advanced Data Analytics Specialization** 
+- 🎖 **Google Career Certifications, Advanced Data Analytics Specialization**
+  - Issued: October 2023
+  
+⚛💥Feel free to connect with me on Linkedln!  
