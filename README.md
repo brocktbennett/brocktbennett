@@ -92,4 +92,12 @@
 - 🎖 **Google Career Certifications, Advanced Data Analytics Specialization**
   - Issued: October 2023
   
-⚛💥Feel free to connect with me on Linkedln!  
+⚛💥Feel free to connect with me on Linkedln!
+
+<!-- SNS Links -->
+### Important Links
+
+<a href="https://www.linkedin.com/in/brocktbennett/">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
+</a>
+
