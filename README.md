@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="[[https://go.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg?io=transform:fit,width:2500&quality=80](https://go.okstate.edu)](https://digitalassets.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg)" alt="Oklahoma State University Logo" width="200">
+<div style="text-align: center;">
+    <img src="https://go.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg" alt="Oklahoma State University Logo" width="200">
+    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image">
 </div>
+
 
 # Hello 👋, I'm Brock T. Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
 
