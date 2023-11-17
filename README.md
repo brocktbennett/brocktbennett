@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://go.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg" alt="Oklahoma State University Logo" width="200">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image">
+    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200">
 </div>
 
 
