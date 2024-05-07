@@ -10,7 +10,7 @@
   📧 <a href="mailto:brock.bennett@okstate.edu">brock.bennett@okstate.edu</a> | 
   💻 <a href="https://linkedin.com/in/brocktbennett/">Linkedin.com/in/brocktbennett/</a> | 
   🌐 <a href="https://brocktbennett.com/">brocktbennett.com</a> | 
-  📄 <a href="https://drive.google.com/file/d/1-oej50p-nGGSYhwX3VO33rdEDFlUEo4E/view?usp=share_link">My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1-oej50p-nGGSYhwX3VO33rdEDFlUEo4E/view?usp=sharing">My Resume</a>
 </p>
 
 
@@ -18,11 +18,10 @@
 
 ## About Me 🚀
 
-- 🔭 Currently completing my Master's in Business Analytics & Data Science at Oklahoma State University
-- 🌱 Learning advanced techniques in Machine Learning and Cloud Computing
+- 🔭 Completing my Master's in Business Analytics & Data Science at Oklahoma State University in May of 2024
+- 🌱 Learning advanced techniques in Machine Learning and Cloud Computing: Ongoing through self taught.
 - 👯 Looking to collaborate on data-driven projects and cloud solutions
-- 💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes
-- ⚡ Fun fact: I love YouTube so much that I'm pretty sure I could design a rocket out of paper clips and duct tape! 🚀
+- 💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes. 
 
 #### 🎓 **Education**
 
@@ -44,6 +43,12 @@
 ---
 
 #### 🏢 **Professional Experience**
+
+- **Data Engineer Intern, Griffin Media (News 9)**  
+  - October 2023 – May 2024
+  - Crafted solutions for seamless ETL data ingestion processes.
+  - Integrated Google Cloud Platform, Google Analytics and Multiple Pipelines
+  - Improved data collection strategies and experimental designs by incorporating new data architecture 
 
 - **Cloud Engineer Intern, Heartland**  
   - May 2023 – August 2023
