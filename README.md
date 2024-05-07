@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello 👋, I'm Brock T. Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
+# Hello 👋, I'm Brock Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
 
 <p align="center">
   📍 Stillwater, OK | 
