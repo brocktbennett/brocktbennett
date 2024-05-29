@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200">
+    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: block; margin: auto;">
 </div>
+
 
 
 # Hello 👋, I'm Brock Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
