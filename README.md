@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: block; margin: auto;">
+    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: inline-block;">
 </div>
+
 
 
 
