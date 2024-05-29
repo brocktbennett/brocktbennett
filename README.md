@@ -10,7 +10,7 @@
   📧 <a href="mailto:brock.bennett@okstate.edu">brock.bennett@okstate.edu</a> | 
   💻 <a href="https://linkedin.com/in/brocktbennett/">Linkedin.com/in/brocktbennett/</a> | 
   🌐 <a href="https://brocktbennett.com/">brocktbennett.com</a> | 
-  📄 <a href="https://drive.google.com/file/d/1-oej50p-nGGSYhwX3VO33rdEDFlUEo4E/view?usp=sharing">My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1cPI_ODMYBRV1LbjaejKnt1numbhHUrpa/view?usp=sharing">My Resume</a>
 </p>
 
 
