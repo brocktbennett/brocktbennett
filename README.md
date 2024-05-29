@@ -2,10 +2,9 @@
     <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: inline-block;">
 </div>
 
+# Hello 👋, I'm Brock Bennett! 
 
-
-
-# Hello 👋, I'm Brock Bennett! Thanks for checking out my GitHub profile. Feel free to reach out anytime! 
+Thanks for visiting my GitHub profile. I recently completed my Master's in Business Analytics & Data Science at Oklahoma State University in May 2024. Feel free to reach out anytime! 
 
 <p align="center">
   📍 Stillwater, OK | 
@@ -15,15 +14,16 @@
   📄 <a href="https://drive.google.com/file/d/1cPI_ODMYBRV1LbjaejKnt1numbhHUrpa/view?usp=sharing">My Resume</a>
 </p>
 
-
 ---
 
 ## About Me 🚀
 
-- 🔭 Completing my Master's in Business Analytics & Data Science at Oklahoma State University in May of 2024
-- 🌱 Learning advanced techniques in Machine Learning and Cloud Computing: Ongoing through self taught.
-- 👯 Looking to collaborate on data-driven projects and cloud solutions
+- 🔭 Master's in Business Analytics & Data Science, Oklahoma State University, May 2024
+- 🌱 Currently learning advanced techniques in Machine Learning and Cloud Computing.
+- 👯 Interested in collaborating on data-driven projects and cloud solutions.
 - 💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes. 
+
+...
 
 #### 🎓 **Education**
 
