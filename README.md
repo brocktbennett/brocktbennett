@@ -1,10 +1,8 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: inline-block; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
+    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" style="width: 150px; max-width: 80%; height: auto;">
 </div>
 
-
-
-# Hello 👋, I'm Brock Bennett! 
+# Hello, I'm Brock Bennett! 
 
 Thanks for visiting my GitHub profile. I recently completed my Master's in Business Analytics & Data Science at Oklahoma State University in May 2024. Feel free to reach out anytime! 
 
@@ -18,16 +16,16 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 
 ---
 
-## About Me 🚀
+## About Me ##
 
-- 🔭 Master's in Business Analytics & Data Science, Oklahoma State University, May 2024
-- 🌱 Currently learning advanced techniques in Machine Learning and Cloud Computing.
-- 👯 Interested in collaborating on data-driven projects and cloud solutions.
-- 💬 Ask me about Python, SQL, Tableau, SAS Viya, and ETL processes. 
+- Master's in Business Analytics & Data Science, Oklahoma State University, May of 2024
+- Currently learning advanced techniques in Machine Learning and Cloud Engineering
+- Interested in collaborating on data-driven projects
+- Ask me about Python, SQL, Tableau, SAS Viya, and ETL Tools
 
 ...
 
-#### 🎓 **Education**
+#### Education
 
 - **Master of Science in Business Analytics & Data Science**  
   - Oklahoma State University, Stillwater, OK  
@@ -38,15 +36,15 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
   - Graduation Date: May 2023 | Major GPA: 3.7  
   - Major: Management Science Information Systems, Data Science
 
-#### 🌟 **Summary of Qualifications**
+#### Summary of Qualifications**
 
-- 🛠 **Skilled in Data & IT**: Over 2 years of diverse internship experience in IT and data analytics, with a focus on ETL tasks.
-- 🏆 **Tech Stack**: Proficient in Python, SQL, Tableau, and SAS Viya.
-- 💡 **Team Collaboration**: A proven track record of successful project completion with cross-functional teams.
+- **Skilled in Data & IT**: Over 2 years of diverse internship experience in IT and data analytics, with a focus on ETL tasks.
+- **Tech Stack**: Proficient in Python, SQL, Tableau, and SAS Viya.
+- **Team Collaboration**: A proven track record of successful project completion with cross-functional teams.
 
 ---
 
-#### 🏢 **Professional Experience**
+#### Professional Experience**
 
 - **Data Engineer Intern, Griffin Media (News 9)**  
   - October 2023 – May 2024
@@ -72,7 +70,7 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 
 ---
 
-#### 📊 **Projects**
+#### Projects**
 
 - **Customer Segmentation and Delinquency Prediction**  
   - August 2022 – May 2023
@@ -85,24 +83,24 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 
 ---
 
-#### ⚙️ **Technical Skills**
+#### Technical Skills**
 
-- **Data Analysis and Programming**: Python 🐍, R, SAS, SQL
+- **Data Analysis and Programming**: Python, R, SAS, SQL
 - **Database Management Systems**: MySQL, Oracle, Azure Dev Ops, Snowflake
-- **Cloud Computing / Data Warehousing**: Azure, Matillion, dbt, Snowflake, Postman
-- **Data Visualization and BI Tools**: Tableau 📊, PowerBI, JMP, SAS Viya
+- **Cloud Engineering / Data Warehousing**: Azure, Matillion, dbt, Snowflake, Postman, Databricks
+- **Data Visualization and BI Tools**: Tableau, PowerBI, JMP, SAS Viya, KNIME
 
 ---
 
-#### 🏅 **Certifications**
+#### Certifications**
 
-- 🎖 **Google Career Certifications, Data Analytics Specialization**  
+-  **Google Career Certifications, Data Analytics Specialization**  
   - Issued: January 2023
 
-- 🎖 **Google Career Certifications, Advanced Data Analytics Specialization**
+- **Google Career Certifications, Advanced Data Analytics Specialization**
   - Issued: October 2023
   
-⚛💥Feel free to connect with me on Linkedln!
+⚛Feel free to connect with me on Linkedln!
 
 <!-- SNS Links -->
 ### Important Links
@@ -110,4 +108,3 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 <a href="https://www.linkedin.com/in/brocktbennett/">
     <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
 </a>
-
