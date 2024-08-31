@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="200" style="display: inline-block;">
 </div>
+
 
 
 # Hello 👋, I'm Brock Bennett! 
