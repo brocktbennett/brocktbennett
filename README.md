@@ -7,7 +7,7 @@
 Thanks for visiting my GitHub profile. I recently completed my Master's in Business Analytics & Data Science at Oklahoma State University in May 2024. Feel free to reach out anytime! 
 
 <p align="center">
-  📍 Stillwater, OK | 
+  📍 Oklahoma, United States | 
   📧 <a href="mailto:brock.bennett@okstate.edu">brock.bennett@okstate.edu</a> | 
   💻 <a href="https://linkedin.com/in/brocktbennett/">Linkedin.com/in/brocktbennett/</a> | 
   🌐 <a href="https://brocktbennett.com/">brocktbennett.com</a> | 
