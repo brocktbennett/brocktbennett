@@ -1,15 +1,15 @@
-###<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
-    ###<img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" style="width: 150px; max-width: 80%; height: auto;">
-###</div>
-
 <p align="center">
     <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="150">
 </p>
 
 
-# Hello, I'm Brock Bennett! 
+# 👋 Hello, I'm Brock Bennett!  
 
 Thanks for visiting my GitHub profile. I recently completed my Master's in Business Analytics & Data Science at Oklahoma State University in May 2024. Feel free to reach out anytime! 
+
+![GitHub Followers](https://img.shields.io/github/followers/brocktbennett?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/brocktbennett?style=social)
+![OSU](https://img.shields.io/badge/Oklahoma%20State%20University-Orange?style=flat&logo=oklahomastate)
 
 <p align="center">
   📍 Oklahoma, United States | 
