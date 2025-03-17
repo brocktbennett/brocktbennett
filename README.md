@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" style="width: 150px; max-width: 80%; height: auto;">
-</div>
+###<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
+    ###<img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" style="width: 150px; max-width: 80%; height: auto;">
+###</div>
 
 <p align="center">
     <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="150">
