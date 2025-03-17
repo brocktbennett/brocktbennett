@@ -2,10 +2,7 @@
     <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="150">
 </p>
 
-
 # 👋 Hello, I'm Brock Bennett!  
-
-Thanks for visiting my GitHub profile. I recently completed my Master's in Business Analytics & Data Science at Oklahoma State University in May 2024. Feel free to reach out anytime! 
 
 ![GitHub Followers](https://img.shields.io/github/followers/brocktbennett?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/brocktbennett?style=social)
@@ -14,105 +11,101 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 🎓 **Master's in Business Analytics & Data Science** | 📍 **Oklahoma, USA**  
 💡 **Data Engineer | BI Developer | Aspiring Data Scientist**  
 
+📫 **Reach out to me:**  
 <p align="center">
-  📍 Oklahoma, United States | 
-  📧 <a href="mailto:brock.bennett@okstate.edu">brock.bennett@okstate.edu</a> | 
-  💻 <a href="https://linkedin.com/in/brocktbennett/">Linkedin.com/in/brocktbennett/</a> | 
-  🌐 <a href="https://brocktbennett.com/">brocktbennett.com</a> | 
-  📄 <a href="https://drive.google.com/file/d/1cPI_ODMYBRV1LbjaejKnt1numbhHUrpa/view?usp=sharing">My Resume</a>
+  <a href="mailto:brock.bennett@okstate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/brocktbennett/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://brocktbennett.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/brocktbennett"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1cPI_ODMYBRV1LbjaejKnt1numbhHUrpa/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=Google-Drive&logoColor=white"></a>
 </p>
 
 ---
 
-## About Me ##
+## 🚀 About Me 
 
-- Master's in Business Analytics & Data Science, Oklahoma State University, May of 2024
-- Currently learning advanced techniques in Machine Learning and Cloud Engineering
-- Interested in collaborating on data-driven projects
-- Ask me about Python, SQL, Tableau, SAS Viya, and ETL Tools
-
-...
-
-#### Education
-
-- **Master of Science in Business Analytics & Data Science**  
-  - Oklahoma State University, Stillwater, OK  
-  - Graduation Date: May 2024 | Overall GPA: 3.8
-
-- **Bachelor of Science in Business Administration**  
-  - Oklahoma State University, Stillwater, OK  
-  - Graduation Date: May 2023 | Major GPA: 3.7  
-  - Major: Management Science Information Systems, Data Science
-
-#### Summary of Qualifications**
-
-- **Skilled in Data & IT**: Over 2 years of diverse internship experience in IT and data analytics, with a focus on ETL tasks.
-- **Tech Stack**: Proficient in Python, SQL, Tableau, and SAS Viya.
-- **Team Collaboration**: A proven track record of successful project completion with cross-functional teams.
+- 🎓 **Master's in Business Analytics & Data Science**, Oklahoma State University, May 2024
+- 🔬 Passionate about **Machine Learning, Cloud Engineering, and Data Science**
+- 📊 **Proficient in:** Python, SQL, Tableau, SAS Viya, Power BI, ETL
+- 💡 Open to **collaborating** on data-driven projects
+- 🌟 Fun Fact: I love **exploring new tech & optimizing business processes!** 🚀
 
 ---
 
-#### Professional Experience**
+## 📜 Education  
 
-- **Data Engineer Intern, Griffin Media (News 9)**  
-  - October 2023 – May 2024
-  - Crafted solutions for seamless ETL data ingestion processes.
-  - Integrated Google Cloud Platform, Google Analytics and Multiple Pipelines
-  - Improved data collection strategies and experimental designs by incorporating new data architecture 
-
-- **Cloud Engineer Intern, Heartland**  
-  - May 2023 – August 2023
-  - Crafted solutions for seamless ETL data ingestion processes.
-  - Spearheaded summer roadmap development.
-  - Innovated data collection strategies and experimental designs.
-
-- **Data Center Intern, Paycom**  
-  - May 2022 – August 2022
-  - Partnered with Data Center Techs for hardware upgrades and implementation.
-  - Executed equipment installs and maintenance at two of three Paycom Data Centers.
-
-- **IT & Security Intern, Oklahoma State University Foundation**  
-  - December 2020 – January 2022
-  - Established Azure-based network machines.
-  - Gained expertise in SQL Server, Azure, Intune, and cloud-based virus detection.
+📍 **Oklahoma State University (OSU) - Stillwater, OK**  
+- 🎓 **Master of Science in Business Analytics & Data Science** *(May 2024)*  
+  - **GPA:** 3.8  
+- 🎓 **Bachelor of Science in Business Administration** *(May 2023)*  
+  - **Major:** Management Science Information Systems, Data Science  
+  - **GPA:** 3.7  
 
 ---
 
-#### Projects**
+## 💼 Experience  
 
-- **Customer Segmentation and Delinquency Prediction**  
-  - August 2022 – May 2023
-  - Engineered predictive models in Tableau for risk management.
+### **🚀 Data Engineer Intern | Griffin Media (News 9)**  
+📅 **Oct 2023 – May 2024**  
+- Developed **ETL data pipelines** for seamless data ingestion  
+- Integrated **Google Cloud Platform** and **Google Analytics**  
+- Optimized **data architecture** for enhanced reporting  
 
-- **Pitt Business Case Competition with Dick’s Sporting Goods**  
-  - January 2023 – April 2023
-  - Quantified the impact of remote work on sportswear demand through predictive modeling.
-  - Crafted data visualizations in Tableau.
+### **☁️ Cloud Engineer Intern | Heartland**  
+📅 **May 2023 – Aug 2023**  
+- Built **cloud-based ETL pipelines** and improved data workflows  
+- Designed a **data roadmap** for strategic decision-making  
+
+### **🖥️ Data Center Intern | Paycom**  
+📅 **May 2022 – Aug 2022**  
+- **Implemented hardware upgrades** in Paycom Data Centers  
+- Assisted in **data center operations** and infrastructure setup  
+
+### **🔐 IT & Security Intern | OSU Foundation**  
+📅 **Dec 2020 – Jan 2022**  
+- Managed **SQL Server, Azure, and Intune-based** security systems  
+- Set up **cloud-based virtual machines**  
 
 ---
 
-#### Technical Skills**
+## 📊 Projects  
 
-- **Data Analysis and Programming**: Python, R, SAS, SQL
-- **Database Management Systems**: MySQL, Oracle, Azure Dev Ops, Snowflake
-- **Cloud Engineering / Data Warehousing**: Azure, Matillion, dbt, Snowflake, Postman, Databricks
-- **Data Visualization and BI Tools**: Tableau, PowerBI, JMP, SAS Viya, KNIME
+### **📌 Customer Segmentation & Delinquency Prediction**
+📅 **Aug 2022 – May 2023**  
+- Developed **risk prediction models** in **Tableau & Python**  
+- Improved **customer retention strategies** using predictive analytics  
+
+### **🏆 Pitt Business Case Competition (Dick’s Sporting Goods)**
+📅 **Jan 2023 – Apr 2023**  
+- Analyzed **remote work’s impact on sportswear demand**  
+- Created **interactive Tableau dashboards**  
 
 ---
 
-#### Certifications**
+## 🛠️ Technical Skills  
 
--  **Google Career Certifications, Data Analytics Specialization**  
-  - Issued: January 2023
+### **💻 Programming & Data Analysis:**  
+`Python` | `R` | `SAS` | `SQL`  
 
-- **Google Career Certifications, Advanced Data Analytics Specialization**
-  - Issued: October 2023
-  
-⚛Feel free to connect with me on Linkedln!
+### **🗄️ Database & Cloud Services:**  
+`Azure` | `Snowflake` | `Databricks` | `Postman` | `MySQL` | `Oracle`  
 
-<!-- SNS Links -->
-### Important Links
+### **📊 Data Visualization & BI:**  
+`Tableau` | `Power BI` | `SAS Viya` | `KNIME` | `JMP`  
 
-<a href="https://www.linkedin.com/in/brocktbennett/">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
-</a>
+---
+
+## 📜 Certifications  
+
+✅ **Google Advanced Data Analytics Specialization** *(Issued: Oct 2023)*  
+✅ **Google Data Analytics Specialization** *(Issued: Jan 2023)*  
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/brocktbennett"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/brocktbennett"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://brocktbennett.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"></a>
+</p>
