@@ -11,6 +11,9 @@ Thanks for visiting my GitHub profile. I recently completed my Master's in Busin
 ![GitHub Stars](https://img.shields.io/github/stars/brocktbennett?style=social)
 ![OSU](https://img.shields.io/badge/Oklahoma%20State%20University-Orange?style=flat&logo=oklahomastate)
 
+🎓 **Master's in Business Analytics & Data Science** | 📍 **Oklahoma, USA**  
+💡 **Data Engineer | BI Developer | Aspiring Data Scientist**  
+
 <p align="center">
   📍 Oklahoma, United States | 
   📧 <a href="mailto:brock.bennett@okstate.edu">brock.bennett@okstate.edu</a> | 
