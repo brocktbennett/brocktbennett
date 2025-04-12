@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png" alt="OSU Primary Brand Image" width="150">
+    <img src="[https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png](https://digitalassets.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg?io=transform:fit,width:2500&amp;amp;amp;quality=80)" alt="OSU Primary Brand Image" width="150">
 </p>
 
 # 👋 Hello, I'm Brock Bennett!  
