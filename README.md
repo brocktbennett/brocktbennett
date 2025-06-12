@@ -1,8 +1,4 @@
-<p align="center">
-    <img src="[[https://brand.okstate.edu/site-files/images/brand-guide/primary-brand.png](https://digitalassets.okstate.edu/m/5edd2b756cf31c9c/original/Logo-Web-Ready.svg?io=transform:fit,width:2500&amp;amp;amp;quality=80)](https://education.okstate.edu/site-files/images/marketing_communication/logos/osu_brand/osu-brand-primary-full.png)" alt="OSU Primary Brand Image" width="150">
-</p>
-
-# 👋 Hello, I'm Brock Bennett!  
+# Hello, I'm Brock Bennett!  
 
 ![GitHub Followers](https://img.shields.io/github/followers/brocktbennett?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/brocktbennett?style=social)
